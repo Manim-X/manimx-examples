@@ -1,0 +1,18 @@
+break_into_partial_movies: false
+camera_resolutions:
+  4k: 3840x2160
+  default_resolution: high
+  high: 1920x1080
+  low: 854x480
+  medium: 1280x720
+directories:
+  mirror_module_path: false
+fps: 30
+full_screen: false
+style:
+  background_color: '#333333'
+  font: 'Microsoft YaHei'
+  tex_template: ctex
+universal_import_line: from manimx import *
+window_monitor: 0
+window_position: UR
